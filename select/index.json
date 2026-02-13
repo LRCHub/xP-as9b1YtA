@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Merry-Go-Round",
+  "base_artist": "IZ*ONE",
+  "createdAt": "2026-02-13T19:53:38.740551Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Merry Go 'Round",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/01_Merry_Go_'Round_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Merry Go 'Round (Album Version)",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/02_Merry_Go_'Round_(Album_Version)_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Merry-Go-Round",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_Merry-Go-Round_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Merry Go Round",
+      "artist": "Babyshambles",
+      "has_synced": true,
+      "path": "select/04_Merry_Go_Round_Babyshambles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "MERRY-GO-ROUND",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/05_MERRY-GO-ROUND_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Merry Go Round",
+      "artist": "Sam Brown",
+      "has_synced": false,
+      "path": "select/06_Merry_Go_Round_Sam_Brown.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Merry Go Round (Take 1)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/07_Merry_Go_Round_(Take_1)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Merry Go Round (take 1)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/08_Merry_Go_Round_(take_1)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Merry Go Round (Take 2)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/09_Merry_Go_Round_(Take_2)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Merry-Go-Round",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/10_Merry-Go-Round_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Merry-Go-Round",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/11_Merry-Go-Round_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Merry Go Round",
+      "artist": "The Wonder Stuff",
+      "has_synced": true,
+      "path": "select/12_Merry_Go_Round_The_Wonder_Stuff.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Merry-Go-Round",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_Merry-Go-Round_IZ_ONE.txt"
+    }
+  ]
+}
